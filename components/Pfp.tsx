@@ -6,7 +6,7 @@ const Pfp = () => {
       <a href="">
         <img
 
-          src="/den.jpeg"
+          src="/den.png"
           alt="profile"
           className="rounded-full object-cover h-full w-full"
         />
